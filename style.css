@@ -3,8 +3,12 @@
   padding: auto;
 }
 
+:root{
+  --primary-color: rgb(105, 0, 128);
+}
 .link{
-  background-color: aqua;
+  background-color: var(--primary-color);
   border: 0.5rem;
   color: white;
+  text-decoration: none;
 }
