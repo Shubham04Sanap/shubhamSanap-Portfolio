@@ -1,0 +1,10 @@
+.nav {
+  align-items: center;
+  padding: auto;
+}
+
+.link{
+  background-color: aqua;
+  border: 0.5rem;
+  color: white;
+}
